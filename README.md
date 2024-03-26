@@ -1,3 +1,4 @@
+# 订阅收集:
 1、白嫖大集合：https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 
 2、IPV6专用：https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u
